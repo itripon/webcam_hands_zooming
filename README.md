@@ -16,7 +16,7 @@ A virtual camera application that enables hand gesture-based zoom control for vi
 
 ## 📋 Requirements
 
-- **Python 3.8+** (tested with Python 3.12)
+- **Python 3.10+** (tested with Python 3.11, 3.12)
 - **Webcam** (any USB or built-in camera)
 - **Windows** (tested on Windows 10/11)
 
